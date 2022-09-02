@@ -52,7 +52,7 @@
 
 
 <h2 align = "left">Status do Projeto</h2>
-<p>Com menu em desenvolvimento</p>
+<p>Finalizado.</p>
 
 <h2 align = "left">Ideia do Jogo</h2>
 <p>Little Pitchula é uma pequena e inocente refrigerante que gostava 
